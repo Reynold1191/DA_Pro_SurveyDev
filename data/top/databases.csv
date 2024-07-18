@@ -1,0 +1,11 @@
+database,count
+PostgreSQL,4328
+MongoDB,3649
+Redis,3331
+MySQL,3281
+Elasticsearch,2856
+Microsoft SQL Server,2706
+SQLite,2437
+Firebase,1650
+MariaDB,1385
+DynamoDB,1044
